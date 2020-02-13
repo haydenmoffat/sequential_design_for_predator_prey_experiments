@@ -1,0 +1,3 @@
+The main R script that is used to run the sequential experimental design 
+(and the best starting point) is called “SMC_algorithm.R”. The entire sequential experimental 
+design algorithm can be run from this script and it calls the other scripts and functions.
